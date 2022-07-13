@@ -1,5 +1,5 @@
 //Hello World Android
 //
-printIn{"Hello World"};
+println{"Hello World"};
 //
-printIn{"chicken noodles are amazing"}
+print{"Chicken noodles are amazing!"}
