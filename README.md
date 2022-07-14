@@ -1,2 +1,2 @@
-# Hello-World-Android
+# Hello World Android
 Demo for Processing-Java
